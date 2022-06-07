@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Masa-Ajaj
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently working at Exalt technologies 
-<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me masa.sam.98@gmail.com
 
 <!---
